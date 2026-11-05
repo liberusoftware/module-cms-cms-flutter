@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-cms-flutter",
+  "capabilityKey": "planned:cms:cms",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_cms_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/cms.md",
+  "presentationPlan": "projects/cms/flutter/cms.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
